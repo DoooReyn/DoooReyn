@@ -3,4 +3,4 @@
 - 📘 [微读自动阅读器](https://github.com/DoooReyn/WxRead-PC-AutoReader)
 - 🎮 Creator of games and tutorials
 - 🖕 [Cocos Creator 手势识别](https://github.com/DoooReyn/ccc-gesture-recognition)
-- 📚 [电子书收藏夹]https://github.com/DoooReyn/dbooks-links.git
+- 📚 [电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
