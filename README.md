@@ -1,3 +1,9 @@
+<img align="left" alt="Hi" width="100px" src="https://user-images.githubusercontent.com/2780145/109505497-a8d97600-7ac2-11eb-9cfe-1e34b52a89ed.gif" /> 
+<br>
+
+<h1 align="left">Hi there 👋</h1>
+<br>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=doooreyn&show_icons=true&icon_color=5194F0&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" />
 
 - 📘 [微读自动阅读器](https://github.com/DoooReyn/WxRead-PC-AutoReader)
