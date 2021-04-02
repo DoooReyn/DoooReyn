@@ -3,4 +3,6 @@
 - 📘 [微读自动阅读器](https://github.com/DoooReyn/WxRead-PC-AutoReader)
 - 🖕 [Cocos Creator 手势识别](https://github.com/DoooReyn/ccc-gesture-recognition)
 - 📚 [电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
+- 📒 [微信支付宝账单转换器](https://github.com/DoooReyn/wechat-alipay-bill-converter)
+- 🧰 [位图字体工具箱](https://github.com/DoooReyn/BMFontToolbox)
 - 🎮 兴趣广泛的手机游戏从业者
