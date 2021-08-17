@@ -12,3 +12,4 @@
 - 📒 [微信支付宝账单转换器](https://github.com/DoooReyn/wechat-alipay-bill-converter)
 - 🧰 [位图字体工具箱](https://github.com/DoooReyn/BMFontToolbox)
 - 🎮 兴趣广泛的手机游戏从业者
+- 📧: jl88744653@gmail.com
