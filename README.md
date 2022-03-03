@@ -11,5 +11,6 @@
 - 📚 [电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
 - 📒 [微信支付宝账单转换器](https://github.com/DoooReyn/wechat-alipay-bill-converter)
 - 🧰 [位图字体工具箱](https://github.com/DoooReyn/BMFontToolbox)
-- 🎮 兴趣广泛的手机游戏从业者
+- 💻 [Cocos2d-x内置HTTP本地服务器](https://github.com/DoooReyn/cocos2d-x-lhs)
+- 🎮 兴趣广泛的手游从业者
 - 📧: jl88744653@gmail.com
