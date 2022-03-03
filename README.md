@@ -14,4 +14,4 @@
 - 📚 [电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
 - 📒 [微信支付宝账单转换器](https://github.com/DoooReyn/wechat-alipay-bill-converter)
 - 🎮 兴趣广泛的手游从业者
-- 📧: jl88744653@gmail.com
+- 📧 jl88744653@gmail.com
