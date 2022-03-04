@@ -8,6 +8,7 @@
 
 - 📘 [微读自动阅读器](https://github.com/DoooReyn/WxRead-PC-AutoReader)
 - 🖕 [Cocos Creator 手势识别](https://github.com/DoooReyn/ccc-gesture-recognition)
+- 🛤️ [Cocos2d-x 内置 WebSocket 本地服务器](https://github.com/DoooReyn/cocos2d-x-lws)
 - 💻 [Cocos2d-x 内置 HTTP 本地服务器](https://github.com/DoooReyn/cocos2d-x-lhs)
 - 🎸 [Cocos2d-x Fmod 集成指南](https://github.com/DoooReyn/fmod-for-cocos2dx)
 - 🧰 [位图字体工具箱](https://github.com/DoooReyn/BMFontToolbox)
