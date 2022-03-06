@@ -17,6 +17,6 @@
 - 📚 [IT电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
 - 📒 [微信/支付宝账单转换器](https://github.com/DoooReyn/wechat-alipay-bill-converter)
 - 💰 [给人事的——工资明细助手](https://wu57.cn/Game/SalaryBook/)
-- 🎮 [瞎鼓捣 Web Game Demo](https://wu57.cn/Game/games/)
+- 🎮 [虾虾虾鼓捣的 Web Game Demo](https://wu57.cn/Game/games/)
 - 🧙‍♂️ 兴趣广泛的游戏开发从业者，欢迎关注我的[个人网站](https://wu57.cn/)
 - 📧 jl88744653@gmail.com
