@@ -7,7 +7,7 @@
 
 - 🐼 A game developer from China
 - 👷‍♂️ A repeat wheel maker
-- 🧙‍♂️ Focus on `Cocos2d-x/Cocos Creator`
+- 🧙‍♂️ Currently focus on `Cocos2d-x / Cocos Creator`
 
 
 ### Projects
