@@ -1,13 +1,13 @@
 <div>
   
-<img align="left" alt="Hi" width="168px" height="168px" src="https://user-images.githubusercontent.com/2780145/109505497-a8d97600-7ac2-11eb-9cfe-1e34b52a89ed.gif" /> 
+<img align="left" alt="Hi" width="80px" src="https://user-images.githubusercontent.com/2780145/109505497-a8d97600-7ac2-11eb-9cfe-1e34b52a89ed.gif" /> 
 <br>
   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=doooreyn&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue" />
 
 </div>
 
-
+</br>
 
 ### Hi, there! 🤠 I'm DoooReyn.
 
