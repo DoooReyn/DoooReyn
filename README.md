@@ -7,6 +7,7 @@
 
 - 🐼 A game developer from China
 - 👷‍♂️ A repeat wheel maker
+- 😘 A faithful fan of PyQt
 - 🧙‍♂️ Currently focus on `Cocos2d-x / Cocos Creator`
 
 
