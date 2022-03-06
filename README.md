@@ -12,7 +12,8 @@
 
 ### Projects
 
--   📘 [微读自动阅读器](https://github.com/DoooReyn/WxRead-WebAutoReader)
+-   📘 [微信读书自动阅读器 Web版](https://github.com/DoooReyn/WxRead-WebAutoReader) 
+-   📗 [微信读书自动阅读器 PC版](https://github.com/DoooReyn/WxRead-PC-AutoReader)
 -   👌 [手势识别与训练模型](https://wu57.cn/Game/gestures/)
 -   🖕 [Cocos Creator 手势识别](https://github.com/DoooReyn/ccc-gesture-recognition)
 -   😎 [Cocos2d-x 目录监视器](https://github.com/DoooReyn/cocos2d-x-dir-monitor)
