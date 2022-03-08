@@ -20,6 +20,7 @@
 -   🛤️ [Cocos2d-x 内置 WebSocket 服务器](https://github.com/DoooReyn/cocos2d-x-lws)
 -   💻 [Cocos2d-x 内置 HTTP 服务器](https://github.com/DoooReyn/cocos2d-x-lhs)
 -   🎸 [Cocos2d-x Fmod 集成指南](https://github.com/DoooReyn/fmod-for-cocos2dx)
+-   📓 [Cocos2d-x 集成 spdlog](https://github.com/DoooReyn/cocos2d-x-spdlog)
 -   💰 [给人事的——工资明细助手](https://wu57.cn/Game/SalaryBook/)
 -   🧰 [位图字体工具箱 BMFontToolbox](https://github.com/DoooReyn/BMFontToolbox)
 -   📚 [IT 电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
