@@ -26,7 +26,7 @@
 -   🧰 [位图字体工具箱 BMFontToolbox](https://github.com/DoooReyn/BMFontToolbox)
 -   💰 [给人事的工资明细助手](https://wu57.cn/Game/SalaryBook/)
 -   ⚔️ [Lua 字符串插值](https://github.com/DoooReyn/lua-string-interpolate)
--   🗒️ [Formatted log for Lua](https://github.com/DoooReyn/lua_format_log)
+-   📬 [Formatted log for Lua](https://github.com/DoooReyn/lua_format_log)
 -   📚 [IT 电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
 -   📒 [微信/支付宝账单转换器](https://github.com/DoooReyn/wechat-alipay-bill-converter)
 -   👾 [虾虾虾鼓捣的 Web Game Demo](https://wu57.cn/Game/games/)
@@ -35,4 +35,4 @@
 
 -   ✍️ [Blog](https://wu57.cn/)
 -   📚 [简书](https://www.jianshu.com/u/5b3708fe7f63)
--   📧 jl88744653@gmail.com
+-   💌 jl88744653@gmail.com
