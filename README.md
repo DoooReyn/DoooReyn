@@ -16,6 +16,7 @@
 -   📗 [微信读书自动阅读器 PC版](https://github.com/DoooReyn/WxRead-PC-AutoReader)
 -   👌 [手势识别与训练模型](https://wu57.cn/Game/gestures/)
 -   🖕 [Cocos Creator 手势识别](https://github.com/DoooReyn/ccc-gesture-recognition) > [在线演示](https://wu57.cn/games/gesture/web-desktop/)
+-   🕹️ [Console for Cocos2d-x base on PyQt5](https://github.com/DoooReyn/Console)
 -   😎 [Cocos2d-x 目录监视器](https://github.com/DoooReyn/cocos2d-x-dir-monitor)
 -   🛤️ [Cocos2d-x 内置 WebSocket 服务器](https://github.com/DoooReyn/cocos2d-x-lws)
 -   💻 [Cocos2d-x 内置 HTTP 服务器](https://github.com/DoooReyn/cocos2d-x-lhs)
@@ -27,6 +28,7 @@
 -   📚 [IT 电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
 -   📒 [微信/支付宝账单转换器](https://github.com/DoooReyn/wechat-alipay-bill-converter)
 -   ⚔️ [Lua字符串插值](https://github.com/DoooReyn/lua-string-interpolate)
+-   🗒️ [Formatted log for Lua](https://github.com/DoooReyn/lua_format_log)
 -   👾 [虾虾虾鼓捣的 Web Game Demo](https://wu57.cn/Game/games/)
 
 ### Find Me
