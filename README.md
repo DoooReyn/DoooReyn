@@ -22,6 +22,7 @@
 -   🎸 [Cocos2d-x Fmod 集成指南](https://github.com/DoooReyn/fmod-for-cocos2dx)
 -   📓 [Cocos2d-x 使用 spdlog](https://github.com/DoooReyn/cocos2d-x-spdlog)
 -   🌕 [Cocos2d-x 接入 lua-protobuf](https://github.com/DoooReyn/cocos2d-x-lua-protobuf)
+-  🥛 🍞 [基于 PyQt5 打造的小工具集合](https://github.com/DoooReyn/milk)
 -   🕹️ [Console for Cocos2d-x based on PyQt5](https://github.com/DoooReyn/Console)
 -   🧰 [位图字体工具箱 BMFontToolbox](https://github.com/DoooReyn/BMFontToolbox)
 -   💰 [给人事的工资明细助手](https://wu57.cn/Game/SalaryBook/)
