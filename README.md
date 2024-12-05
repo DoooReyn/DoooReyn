@@ -12,6 +12,10 @@
 
 ### Projects
 
+-   🍄 [万用配置表](https://github.com/DoooReyn/ccc-xlsx-dump)
+-   📑 [FNT通用解析器](https://github.com/DoooReyn/ccc-fnt-parser)
+-   🖼  [玩转Graphics](https://github.com/DoooReyn/ccc-play-graphics)
+-   🦾 [spine预览](https://github.com/DoooReyn/SpinePreviewer)
 -   📘 [微信读书自动阅读器 Web版](https://github.com/DoooReyn/WxRead-WebAutoReader) 
 -   📗 [微信读书自动阅读器 PC版](https://github.com/DoooReyn/WxReader)
 -   👌 [手势识别与训练模型](https://wu57.cn/Game/gestures/)
@@ -25,11 +29,11 @@
 -  🥛 🍞 [基于 PyQt5 打造的小工具集合](https://github.com/DoooReyn/milk)
 -   🕹️ [Console for Cocos2d-x based on PyQt5](https://github.com/DoooReyn/Console)
 -   🧰 [位图字体工具箱 BMFontToolbox](https://github.com/DoooReyn/BMFontToolbox)
--   💰 [给人事的工资明细助手](https://wu57.cn/Game/SalaryBook/)
 -   ⚔️ [Lua 字符串插值](https://github.com/DoooReyn/lua-string-interpolate)
 -   📬 [Formatted log for Lua](https://github.com/DoooReyn/lua_format_log)
 -   📚 [IT 电子书收藏夹](https://github.com/DoooReyn/dbooks-links.git)
 -   📒 [微信/支付宝账单转换器](https://github.com/DoooReyn/wechat-alipay-bill-converter)
+-   💰 [给人事的工资明细助手](https://wu57.cn/Game/SalaryBook/)
 -   👾 [虾虾虾鼓捣的 Web Game Demo](https://wu57.cn/Game/games/)
 
 ### Find Me
