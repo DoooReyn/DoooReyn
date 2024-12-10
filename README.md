@@ -12,6 +12,9 @@
 
 ### Projects
 
+-   🤖 [Android Webview 套壳 App](https://github.com/DoooReyn/ccc-android-h5)
+-   💽 [批量图片压缩](https://github.com/DoooReyn/image-compressor)
+-   🎶 [音频压缩](https://github.com/DoooReyn/audio-converter)
 -   🍄 [万用配置表](https://github.com/DoooReyn/ccc-xlsx-dump)
 -   📑 [FNT通用解析器](https://github.com/DoooReyn/ccc-fnt-parser)
 -   🖼  [玩转Graphics](https://github.com/DoooReyn/ccc-play-graphics)
