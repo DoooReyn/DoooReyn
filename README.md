@@ -14,6 +14,8 @@
 
 -   🤖 [Android Webview 套壳 App](https://github.com/DoooReyn/ccc-android-h5)
 -   💽 [批量图片压缩](https://github.com/DoooReyn/image-compressor)
+-   🌌 [astc加载器](https://github.com/DoooReyn/ccc-astc-loader)
+-   🎑 [astc图片转换器](https://github.com/DoooReyn/astc-encoder)
 -   🎶 [音频压缩](https://github.com/DoooReyn/audio-converter)
 -   🍄 [万用配置表](https://github.com/DoooReyn/ccc-xlsx-dump)
 -   📑 [FNT通用解析器](https://github.com/DoooReyn/ccc-fnt-parser)
