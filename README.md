@@ -30,6 +30,7 @@
 -   🎸 [cocos2dx.Fmod 集成指南](https://github.com/DoooReyn/fmod-for-cocos2dx)
 -   📓 [cocos2dx.使用 spdlog](https://github.com/DoooReyn/cocos2d-x-spdlog)
 -   🌕 [cocos2dx.接入 lua-protobuf](https://github.com/DoooReyn/cocos2d-x-lua-protobuf)
+-   🐢 [svn.抓取两个版本之间未合并的任务](https://github.com/DoooReyn/svn-get-merge-ids)
 -   🥡 [tool.基于 PyQt5 打造的小工具集合](https://github.com/DoooReyn/milk)
 -   🧰 [tool.位图字体工具箱](https://github.com/DoooReyn/BMFontToolbox)
 -   ⚔️ [lua.字符串插值](https://github.com/DoooReyn/lua-string-interpolate)
